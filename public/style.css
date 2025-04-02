@@ -1,3 +1,16 @@
 body {
   background-image: linear-gradient(to right, wheat, yellow);
 }
+
+.delete-btn {
+  background-color: #ff4444;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
